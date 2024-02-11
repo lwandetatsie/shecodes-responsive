@@ -91,3 +91,8 @@
     text-decoration: underline;
   }
   
+  @media (min-width: 576px) {
+    .pic{
+      display: none;
+    }
+   }
