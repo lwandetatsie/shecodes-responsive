@@ -91,7 +91,7 @@
     text-decoration: underline;
   }
   
-  @media (min-width: 576px) {
+  @media (min-width: 390px) {
     .pic{
       display: none;
     }
